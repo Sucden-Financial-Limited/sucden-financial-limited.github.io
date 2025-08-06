@@ -6,7 +6,9 @@ permalink: /star-mobile-app-privacy-notice
 
 # STAR Mobile App Privacy Notice
 
-This section supplements our general Cookies and Data Privacy Notice and applies specifically to users of the STAR mobile application, available on Google Play and the Apple App Store.
+This section supplements our general 
+[Cookies and Data Privacy Notice](https://www.sucdenfinancial.com/en/cookies-and-data-privacy-notice/)
+and applies specifically to users of the STAR mobile application, available on Google Play and the Apple App Store.
 
 ## 1. Data We Collect via the App
 
@@ -59,7 +61,7 @@ You have the right to:
 
 - Access, correct, or delete your personal data.  
 - Withdraw consent for data processing.  
-- Request the deletion of your STAR account by contacting the [tradesupport@sucfin.com].
+- Request the deletion of your STAR account by contacting [Trade Support](mailto:tradesupport@sucfin.com).
 
 ## 7. Children’s Privacy
 
@@ -67,5 +69,5 @@ The STAR mobile app is not intended for children under 13. We do not knowingly c
 
 ## 8. Contact
 
-For questions or concerns about this notice or your data, please contact us at [tradesupport@sucfin.com].
+For questions or concerns about this notice or your data, please contact us at [Trade Support](mailto:tradesupport@sucfin.com).
 
