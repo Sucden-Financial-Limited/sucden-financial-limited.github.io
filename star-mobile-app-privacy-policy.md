@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: STAR Mobile App Privacy Notice
-permalink: /star-mobile-app-privacy-notice/
+permalink: /star-mobile-app-privacy-notice
 ---
 
 # STAR Mobile App Privacy Notice
